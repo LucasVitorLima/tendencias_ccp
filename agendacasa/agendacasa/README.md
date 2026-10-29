@@ -138,8 +138,8 @@ Detalhes em [`docs/casos-de-teste.md`](docs/casos-de-teste.md).
 
 ## 6. Evidências do protótipo
 
-- Formulário: `COLE AQUI O LINK DO GOOGLE FORMS`
-- Painel AppSheet: `COLE AQUI O LINK DO APP`
+- Formulário: https://docs.google.com/forms/d/e/1FAIpQLSeUcnVTQOJj5eW_Be6r27VxZOKYiJs6_mJsAAYjrLQtm2DmQA/viewform
+- Painel AppSheet: Em construção
 
 | Etapa | Print |
 | --- | --- |
