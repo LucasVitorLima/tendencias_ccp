@@ -143,14 +143,15 @@ Detalhes em [`docs/casos-de-teste.md`](docs/casos-de-teste.md).
 
 | Etapa | Print |
 | --- | --- |
-| Formulário | ![Formulário](docs/evidencias/01-formulario.png) |
-| Pedido na planilha | ![Planilha](docs/evidencias/02-planilha-pedido.png) |
+| Formulário | ![Formulário](docs/evidencias/01-formulário.png) |
+| Pedido na planilha | ![Planilha](docs/evidencias/02-planilha-pedidos.png) |
 | E-mail ao cliente | ![E-mail cliente](docs/evidencias/03-email-cliente.png) |
 | Alerta à equipe | ![E-mail equipe](docs/evidencias/04-email-equipe.png) |
-| E-mail de correção | ![Correção](docs/evidencias/05-email-correcao.png) |
-| Contingência sem IA | ![Contingência](docs/evidencias/06-contingencia.png) |
-| Painel AppSheet | ![AppSheet](docs/evidencias/07-appsheet.png) |
-| Testes automatizados | ![Testes](docs/evidencias/08-testes.png) |
+| E-mail de correção | ![Correção](docs/evidencias/05-correcao.png) |
+| Contingência sem IA | ![Contingência](docs/evidencias/06-contigencia.png) |
+| Código no Apps Script | ![Apps Script](docs/evidencias/09-apps-script.png) |
+| Log de validações | ![Log](docs/evidencias/10-log-validacoes.png) |
+| Tabela de preços | ![Preços](docs/evidencias/11-tabela-precos.png) |
 
 ---
 
