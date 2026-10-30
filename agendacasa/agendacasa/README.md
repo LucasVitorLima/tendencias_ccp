@@ -3,7 +3,7 @@
 Protótipo funcional que transforma um pedido de orçamento enviado por formulário em um agendamento triado por Inteligência Artificial, com resposta automática ao cliente e painel para a equipe.
 
 > Disciplina: Engenharia de Prompt / Low Code, No Code e Vibecode
-> Grupo: Lucas Vitor Lima Santana, Integrante 2, Integrante 3
+> Grupo: Lucas Vitor Lima Santana
 
 ---
 
@@ -176,8 +176,8 @@ Detalhes em [`docs/casos-de-teste.md`](docs/casos-de-teste.md).
 | Integrante | Papel | Entregas |
 | --- | --- | --- |
 | Lucas Vitor Lima Santana | Fluxos de Automação e Lógica; Integrações e IA (Vibecode) | `src/Code.gs`, integração Gemini, `docs/prompts.md` |
-| Integrante 2 | Protótipo e Interface (UX/UI) | Google Forms, abas da planilha, app AppSheet, prints |
-| Integrante 3 | Documentação, Testes e Apresentação | README, `docs/casos-de-teste.md`, execução dos testes, slides |
+| Lucas Vitor Lima Santana | Protótipo e Interface (UX/UI) | Google Forms, abas da planilha, app AppSheet, prints |
+| Lucas Vitor Lima Santana | Documentação, Testes e Apresentação | README, `docs/casos-de-teste.md`, execução dos testes, slides |
 
 ---
 
